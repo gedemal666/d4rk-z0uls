@@ -1,12 +1,13 @@
 {
-  "name": "with-ant-design-less",
-  "version": "1.0.0",
+  "name": "d4rk-z0uls",
+  "version": "0.0.1",
   "scripts": {
     "dev": "next",
     "build": "next build",
     "start": "next start"
   },
   "dependencies": {
+    "@ant-design/icons": "^4.2.2",
     "@zeit/next-less": "^1.0.1",
     "antd": "^3.5.4",
     "babel-plugin-import": "^1.7.0",
